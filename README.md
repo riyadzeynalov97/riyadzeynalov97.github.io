@@ -1,3 +1,3 @@
-#Welcome to my GitHub Page!
+# Welcome to my GitHub Page!
 
-##Boise State CS-HU 250 
+## Boise State CS-HU 250 
